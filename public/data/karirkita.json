@@ -1,0 +1,183 @@
+[
+  {
+    "nama": "KarirKita",
+    "tagline": "Jembatan Karir Masa Depan Indonesia",
+    "deskripsi": "Platform ekosistem karir nasional yang menghubungkan talenta terbaik dengan peluang emas di berbagai kawasan industri dan perusahaan terkemuka di seluruh Nusantara.",
+    "domain": "karirkita.my.id",
+    "logoUrl": "https://imgur.com/4ihTaYE.png",
+    "icoUrl": "https://raw.githubusercontent.com/alinlabs/karirkita.my.id/refs/heads/main/public/logo/logo.ico",
+    "admin": {
+      "email": "admin@karirkita.my.id",
+      "password": "adminpassword123"
+    },
+    "kontak": {
+      "email": "hrd@karirkita.my.id",
+      "telepon": "628129988000",
+      "alamat": "Headquarters: Kawasan Strategis Nasional, Jawa Barat, Indonesia"
+    },
+    "rekening": [
+      {
+        "bank": "BCA",
+        "nomor": "1234567890",
+        "atas_nama": "PT Karir Kita Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bank_Central_Asia.svg/1200px-Bank_Central_Asia.svg.png"
+      },
+      {
+        "bank": "Mandiri",
+        "nomor": "0987654321",
+        "atas_nama": "PT Karir Kita Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bank_Mandiri_logo_2016.svg/1200px-Bank_Mandiri_logo_2016.svg.png"
+      },
+      {
+        "bank": "BRI",
+        "nomor": "1122334455",
+        "atas_nama": "PT Karir Kita Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BANK_BRI_logo.svg/1200px-BANK_BRI_logo.svg.png"
+      }
+    ],
+    "statistik": [
+      { "label": "Loker Aktif", "nilai": "2K+" },
+      { "label": "Perusahaan", "nilai": "150+" },
+      { "label": "Talenta Nusantara", "nilai": "10K+" },
+      { "label": "Terekrut", "nilai": "98%" }
+    ],
+    "hakCipta": "KarirKita Indonesia",
+    "sosialMedia": {
+      "linkedin": "https://linkedin.com/company/karirkita-idn",
+      "instagram": "https://instagram.com/karirkita.idn",
+      "twitter": "https://twitter.com/karirkita_id",
+      "facebook": "https://facebook.com/karirkita.indonesia"
+    },
+    "dutaMerek": {
+      "perusahaan": "https://imgur.com/HvkkHMF.png",
+      "pekerjaan": "https://imgur.com/v1mqN5I.png",
+      "talenta": "https://imgur.com/8mEptpL.png"
+    },
+    "spanduk": {
+      "perusahaan": "https://imgur.com/MuArJXh.png",
+      "pekerjaan": "https://imgur.com/MSodaiq.png",
+      "talenta": "https://imgur.com/8WFC6KY.png"
+    },
+    "aset": {
+      "garuda": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg/100px-National_emblem_of_Indonesia_Garuda_Pancasila.svg.png",
+      "terverifikasi": "https://cdn-icons-png.flaticon.com/512/7641/7641727.png"
+    },
+    "mitra": [
+      {
+        "nama": "Pertamina",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pertamina_Logo.svg/100px-Pertamina_Logo.svg.png",
+        "warna": "#ED1C24"
+      },
+      {
+        "nama": "Telkom Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Telkom_Indonesia_2013.svg/100px-Telkom_Indonesia_2013.svg.png",
+        "warna": "#E31B23"
+      },
+      {
+        "nama": "Bank Central Asia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bank_Central_Asia.svg",
+        "warna": "#0060AF"
+      },
+      {
+        "nama": "Unilever",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/3/37/Unilever.png/100px-Unilever.png",
+        "warna": "#1F36C7"
+      },
+      {
+        "nama": "Astra International",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logo_of_PT_Astra_International_Tbk_terbaru_2025.png/100px-Logo_of_PT_Astra_International_Tbk_terbaru_2025.png",
+        "warna": "#004899"
+      },
+      {
+        "nama": "Gojek",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gojek_logo_2022.svg/100px-Gojek_logo_2022.svg.png",
+        "warna": "#00AA13"
+      },
+      {
+        "nama": "Bank Mandiri",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bank_Mandiri_logo_2016.svg",
+        "warna": "#003D79"
+      }
+    ],
+    "kategori": [
+      {
+        "label": "Pemasaran",
+        "icon": "https://i.imgur.com/NnxMQvh.png",
+        "bg": "#FFF7ED",
+        "accent": "#F97316"
+      },
+      {
+        "label": "Kesehatan",
+        "icon": "https://i.imgur.com/2KIwZeE.png",
+        "bg": "#FEF2F2",
+        "accent": "#EF4444"
+      },
+      {
+        "label": "Hukum",
+        "icon": "https://i.imgur.com/D2oBOiP.png",
+        "bg": "#F1F5F9",
+        "accent": "#334155"
+      },
+      {
+        "label": "Administrasi",
+        "icon": "https://i.imgur.com/tyGD28b.png",
+        "bg": "#EFF6FF",
+        "accent": "#3B82F6"
+      },
+      {
+        "label": "Keuangan",
+        "icon": "https://i.imgur.com/S0Qt3ty.png",
+        "bg": "#F0FDF4",
+        "accent": "#22C55E"
+      },
+      {
+        "label": "Teknologi",
+        "icon": "https://i.imgur.com/F9gGWfQ.png",
+        "bg": "#EEF2FF",
+        "accent": "#6366F1"
+      },
+      {
+        "label": "Pendidikan",
+        "icon": "https://i.imgur.com/7CBenj2.png",
+        "bg": "#FEFCE8",
+        "accent": "#CA8A04"
+      },
+      {
+        "label": "Desain",
+        "icon": "https://i.imgur.com/nntlBAY.png",
+        "bg": "#FDF2F8",
+        "accent": "#EC4899"
+      }
+    ],
+    "testimoni": [
+      { 
+        "name": "Andi Wijaya", 
+        "role": "Software Engineer di Gojek", 
+        "text": "KarirKita membantu saya mendapatkan pekerjaan impian di unicorn Indonesia hanya dalam 2 minggu! Prosesnya sangat transparan dan cepat.", 
+        "avatar": "https://placehold.co/150x150/2563eb/ffffff?text=AW",
+        "rating": 5
+      },
+      { 
+        "name": "Bunga Citra", 
+        "role": "HR Manager di Tokopedia", 
+        "text": "Sebagai rekruter, saya sangat terbantu dengan fitur filter skill di KarirKita. Kualitas kandidat yang kami dapatkan sangat sesuai ekspektasi.", 
+        "avatar": "https://placehold.co/150x150/e11d48/ffffff?text=BC",
+        "rating": 5
+      },
+      { 
+        "name": "Dedi Mahendra", 
+        "role": "Freelance Designer", 
+        "text": "Fitur personal branding-nya luar biasa. Portofolio saya jadi terlihat lebih profesional dan klien lebih mudah menghubungi saya.", 
+        "avatar": "https://placehold.co/150x150/d97706/ffffff?text=DM",
+        "rating": 4
+      },
+      { 
+        "name": "Siti Rahma", 
+        "role": "Product Manager", 
+        "text": "Platform yang sangat user friendly dan informatif. Saya bisa melihat budaya perusahaan sebelum melamar.", 
+        "avatar": "https://placehold.co/150x150/059669/ffffff?text=SR",
+        "rating": 5
+      }
+    ]
+  }
+]

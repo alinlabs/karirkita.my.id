@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="id" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="x-apple-disable-message-reformatting">
+    <title>{{subject}}</title>
+    <!--[if mso]>
+    <style>
+        table {border-collapse:collapse;border-spacing:0;border:none;margin:0;}
+        div, td {padding:0;}
+        div {margin:0 !important;}
+    </style>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    <style>
+        table, td, div, h1, p {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+        body { margin: 0; padding: 0; background-color: #f1f5f9; -webkit-font-smoothing: antialiased; }
+        .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 16px; overflow: hidden; margin-top: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+        
+        /* Dynamic Theme Color */
+        .header { background-color: {{theme_color}}; padding: 40px 0; text-align: center; }
+        
+        .logo-container { background-color: white; padding: 12px; border-radius: 12px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .logo-img { height: 40px; width: auto; vertical-align: middle; display: block; }
+
+        .content { padding: 40px 30px; text-align: center; color: #334155; }
+        .otp-box { background-color: #f8fafc; border: 2px dashed #cbd5e1; border-radius: 12px; padding: 20px; margin: 25px 0; display: inline-block; min-width: 200px; }
+        .otp-code { font-size: 32px; font-weight: 900; letter-spacing: 5px; color: {{theme_color}}; font-family: monospace; }
+        
+        .warning-box { background-color: #fef2f2; border-left: 4px solid #ef4444; border-radius: 6px; padding: 15px; margin-top: 30px; text-align: left; display: {{warning_display}}; font-size: 13px; color: #991b1b; }
+        
+        .footer { background-color: #0f172a; padding: 30px 20px; text-align: center; font-size: 12px; color: #94a3b8; }
+        .social-link { text-decoration: none; margin: 0 8px; color: #cbd5e1; font-weight: bold; }
+        
+        @media only screen and (max-width: 480px) {
+            .content { padding: 30px 20px; }
+            .otp-code { font-size: 28px; }
+        }
+    </style>
+</head>
+<body style="margin:0;padding:0;">
+    <!-- Anti-Spam: Preheader Text -->
+    <div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+        {{intro_text}} - Kode verifikasi Anda berlaku selama {{duration}} menit. Jangan berikan kepada siapapun.
+    </div>
+
+    <center style="width: 100%; background-color: #f1f5f9; padding: 20px 0;">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; background-color: #ffffff; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+            <!-- Header -->
+            <tr>
+                <td class="header" style="background-color: {{theme_color}};">
+                    <div class="logo-container">
+                        <!-- Logo Image with Fallback Alt Text -->
+                        <img src="{{logo_url}}" alt="KarirKita Logo" class="logo-img" width="auto" height="40" style="border:0; outline:none; text-decoration:none;">
+                    </div>
+                </td>
+            </tr>
+            
+            <!-- Body -->
+            <tr>
+                <td class="content">
+                    <h1 style="font-size: 24px; font-weight: 800; margin: 0 0 15px 0; color: #0f172a;">{{greeting_text}}</h1>
+                    
+                    <p style="font-size: 16px; line-height: 1.6; margin: 0 0 20px 0; color: #64748b;">
+                        Halo, <strong>{{to_name}}</strong>.<br>
+                        {{intro_text}}
+                    </p>
+                    
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td align="center">
+                                <div class="otp-box">
+                                    <span class="otp-code">{{otp}}</span>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    
+                    <p style="font-size: 14px; margin: 0; color: #64748b;">
+                        Kode ini valid selama <strong>{{duration}} menit</strong>.<br>
+                        Jaga kerahasiaan kode ini dari pihak manapun.
+                    </p>
+
+                    <!-- Warning Box -->
+                    <div class="warning-box">
+                        <strong>PERINGATAN KEAMANAN:</strong><br>
+                        Jika Anda tidak merasa melakukan permintaan ini, segera abaikan email ini. Pihak KarirKita tidak pernah meminta kode OTP Anda.
+                    </div>
+                </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+                <td class="footer">
+                    <div style="margin-bottom: 20px;">
+                        <a href="https://karirkita.my.id" class="social-link">Website</a> •
+                        <a href="https://instagram.com/karirkita.my.id" class="social-link">Instagram</a> •
+                        <a href="mailto:help@karirkita.my.id" class="social-link">Bantuan</a>
+                    </div>
+                    
+                    <div style="border-top: 1px solid #334155; margin: 20px auto; width: 80%;"></div>
+
+                    <p style="margin: 0 0 10px 0;">
+                        Email ini dikirim secara otomatis untuk <strong style="color: #cbd5e1;">{{to_email}}</strong>.
+                    </p>
+                    <p style="margin: 0;">
+                        &copy; 2024 KarirKita Indonesia.<br>
+                        Kawasan Strategis Nasional, Jawa Barat.
+                    </p>
+                    <p style="margin-top: 15px; font-size: 10px; color: #475569;">
+                        <a href="#" style="color: #475569; text-decoration: underline;">Berhenti Berlangganan</a>
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>

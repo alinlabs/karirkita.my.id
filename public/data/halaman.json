@@ -1,0 +1,199 @@
+[
+  {
+    "beranda": {
+      "lottie": {
+        "kiri": "WorkHard.lottie",
+        "kanan": "Interview.lottie",
+        "ponsel": "IndonesiaConnect.lottie"
+      },
+      "desktop": {
+        "judul": "Temukan Karir di Negeri Nusantara",
+        "deskripsi": "Hubungkan potensimu dengan ribuan peluang di Kawasan Industri dan perusahaan terkemuka."
+      },
+      "mobile": {
+        "judul": "Temukan Karir di Negeri Nusantara",
+        "deskripsi": "Hubungkan potensimu dengan ribuan peluang di Kawasan Industri."
+      }
+    },
+    "pekerjaan": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Cari Lowongan Kerja",
+        "deskripsi": "Daftar lengkap lowongan kerja pabrik, kantor, dan freelance di Purwakarta. Filter berdasarkan gaji dan lokasi."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Cari Lowongan Kerja",
+        "deskripsi": "Daftar lowongan kerja di Purwakarta."
+      }
+    },
+    "pelamar": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Database Talenta",
+        "deskripsi": "Temukan profesional dan tenaga kerja terampil asli Purwakarta untuk bisnis Anda."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Database Talenta",
+        "deskripsi": "Temukan talenta terampil asli Purwakarta."
+      }
+    },
+    "perusahaan": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Daftar Perusahaan",
+        "deskripsi": "Profil lengkap perusahaan-perusahaan di Kawasan Bukit Indah (BIC), Indotaisei, dan Kota Bukit Indah Purwakarta."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Daftar Perusahaan",
+        "deskripsi": "Profil perusahaan di Kawasan Bukit Indah."
+      }
+    },
+    "kelas": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Kelas & Mentor",
+        "deskripsi": "Tingkatkan keahlianmu dengan mengikuti kelas dan mentoring dari para ahli."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Kelas & Mentor",
+        "deskripsi": "Belajar dari para ahli industri."
+      }
+    },
+    "promosi": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Solusi Promosi",
+        "deskripsi": "Jangkau lebih banyak kandidat berkualitas dengan fitur promosi unggulan kami."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Solusi Promosi",
+        "deskripsi": "Promosikan lowongan Anda sekarang."
+      }
+    },
+    "privacy": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Kebijakan Privasi",
+        "deskripsi": "Kami berkomitmen untuk melindungi privasi dan data pribadi Anda."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Kebijakan Privasi",
+        "deskripsi": "Komitmen privasi kami."
+      }
+    },
+    "terms": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&auto=format&fit=crop&q=60", 
+        "judul": "Syarat & Ketentuan",
+        "deskripsi": "Harap baca syarat dan ketentuan penggunaan layanan kami dengan seksama."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&auto=format&fit=crop&q=60", 
+        "judul": "Syarat & Ketentuan",
+        "deskripsi": "Ketentuan penggunaan layanan."
+      }
+    },
+    "help": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Pusat Bantuan",
+        "deskripsi": "Temukan jawaban atas pertanyaan Anda seputar KarirKita."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&auto=format&fit=crop&q=60",
+        "judul": "Pusat Bantuan",
+        "deskripsi": "Bantuan seputar layanan kami."
+      }
+    },
+    "contact": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Hubungi Kami",
+        "deskripsi": "Kami siap membantu Anda. Silakan hubungi kami melalui formulir atau kontak di bawah ini."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d?w=800&auto=format&fit=crop&q=60",
+        "judul": "Hubungi Kami",
+        "deskripsi": "Hubungi tim kami."
+      }
+    },
+    "cookies": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Kebijakan Cookie",
+        "deskripsi": "Penggunaan Teknologi Pelacakan di KarirKita."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=800&auto=format&fit=crop&q=60",
+        "judul": "Kebijakan Cookie",
+        "deskripsi": "Teknologi pelacakan kami."
+      }
+    },
+    "disclaimer": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Disclaimer",
+        "deskripsi": "Penyangkalan Tanggung Jawab."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=800&auto=format&fit=crop&q=60",
+        "judul": "Disclaimer",
+        "deskripsi": "Penyangkalan Tanggung Jawab."
+      }
+    },
+    "detail_kelas": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Detail Kelas",
+        "deskripsi": "Pelajari materi mendalam dari para ahli."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&auto=format&fit=crop&q=60",
+        "judul": "Detail Kelas",
+        "deskripsi": "Materi mendalam."
+      }
+    },
+    "detail_mentor": {
+      "desktop": {
+        "hero": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&auto=format&fit=crop&q=60",
+        "judul": "Profil Mentor",
+        "deskripsi": "Kenali lebih dekat mentor profesional Anda."
+      },
+      "mobile": {
+        "hero": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&auto=format&fit=crop&q=60",
+        "judul": "Profil Mentor",
+        "deskripsi": "Kenali mentor Anda."
+      }
+    },
+    "login": {
+      "desktop": {
+        "hero": "Login.lottie", 
+        "judul": "Masuk Akun",
+        "deskripsi": "Lanjutkan perjalanan karir Anda sekarang."
+      },
+      "mobile": {
+        "hero": "Login.lottie", 
+        "judul": "Masuk Akun",
+        "deskripsi": "Masuk dan mulai karir Anda."
+      }
+    },
+    "register": {
+      "desktop": {
+        "hero": "Register.lottie", 
+        "judul": "Daftar Akun",
+        "deskripsi": "Lengkapi informasi dasar Anda untuk memulai."
+      },
+      "mobile": {
+        "hero": "Register.lottie", 
+        "judul": "Daftar Akun",
+        "deskripsi": "Daftar untuk memulai."
+      }
+    }
+  }
+]

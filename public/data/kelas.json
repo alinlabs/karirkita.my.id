@@ -1,0 +1,194 @@
+{
+  "kelas": [
+    {
+      "id": 1,
+      "slug": "mastering-react-js",
+      "judul": "Mastering React.js for Beginners",
+      "mentor": "Budi Santoso",
+      "peran": "Senior Frontend Dev",
+      "tanggal": "25 Mei 2024",
+      "waktu": "19:00 WIB",
+      "harga": "Rp 150.000",
+      "gambar": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "kategori": "Development",
+      "tingkat": "Beginner",
+      "rating": 4.8,
+      "peserta": 120,
+      "deskripsi": "React.js adalah library JavaScript paling populer saat ini untuk membangun antarmuka pengguna.\nDalam kelas ini, kita akan membahas fundamental React mulai dari Component, Props, State, hingga Hooks.\n\nKelas ini dirancang khusus untuk pemula yang ingin memulai karir sebagai Frontend Developer.\nTidak diperlukan pengalaman React sebelumnya, namun pemahaman dasar HTML, CSS, dan JS akan sangat membantu.",
+      "kurikulum": [
+        "Pengenalan React & Virtual DOM",
+        "Setup Project dengan Vite",
+        "Component & Props",
+        "State Management Dasar",
+        "Handling Events",
+        "Introduction to Hooks (useState, useEffect)"
+      ],
+      "target_pencapaian": [
+        "Memahami konsep dasar React.js dan Virtual DOM",
+        "Mampu membuat aplikasi web interaktif dengan React",
+        "Menguasai penggunaan Hooks dasar",
+        "Siap untuk mempelajari state management lanjutan (Redux/Zustand)"
+      ],
+      "manfaat": [
+        "E-Sertifikat Resmi",
+        "Rekaman Kelas Lifetime Access",
+        "Source Code Project",
+        "Grup Diskusi Telegram"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "digital-marketing-101",
+      "judul": "Digital Marketing Strategy 101",
+      "mentor": "Siti Aminah",
+      "peran": "Marketing Lead",
+      "tanggal": "28 Mei 2024",
+      "waktu": "18:30 WIB",
+      "harga": "Rp 99.000",
+      "gambar": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "kategori": "Marketing",
+      "tingkat": "Beginner",
+      "rating": 4.9,
+      "peserta": 250,
+      "deskripsi": "Pelajari strategi pemasaran digital yang efektif untuk bisnis Anda.",
+      "kurikulum": [
+        "Pengenalan Digital Marketing",
+        "SEO & SEM",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing"
+      ],
+      "target_pencapaian": [
+        "Memahami strategi pemasaran digital yang efektif",
+        "Mampu mengelola kampanye media sosial",
+        "Mengerti dasar-dasar SEO dan SEM",
+        "Dapat membuat konten pemasaran yang menarik"
+      ],
+      "manfaat": [
+        "E-Sertifikat Resmi",
+        "Materi PDF",
+        "Studi Kasus Nyata"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "ui-ux-design-fundamental",
+      "judul": "UI/UX Design Fundamental",
+      "mentor": "Andi Pratama",
+      "peran": "Product Designer",
+      "tanggal": "30 Mei 2024",
+      "waktu": "20:00 WIB",
+      "harga": "Gratis",
+      "gambar": "https://images.unsplash.com/photo-1586717791821-3f44a5638d48?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1586717791821-3f44a5638d48?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "kategori": "Design",
+      "tingkat": "Intermediate",
+      "rating": 4.7,
+      "peserta": 500,
+      "deskripsi": "Pahami dasar-dasar desain antarmuka dan pengalaman pengguna.",
+      "kurikulum": [
+        "Pengenalan UI/UX",
+        "Design Thinking",
+        "Wireframing & Prototyping",
+        "Visual Design Principles",
+        "Usability Testing"
+      ],
+      "target_pencapaian": [
+        "Memahami prinsip dasar UI/UX Design",
+        "Mampu menggunakan Figma untuk desain antarmuka",
+        "Mengerti proses Design Thinking",
+        "Dapat membuat prototype aplikasi yang interaktif"
+      ],
+      "manfaat": [
+        "E-Sertifikat Resmi",
+        "Akses Komunitas Desainer"
+      ]
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "slug": "budi-santoso",
+      "nama": "Budi Santoso",
+      "peran": "Senior Frontend Engineer",
+      "perusahaan": "Tokopedia",
+      "lokasi": "Jakarta, Indonesia",
+      "gambar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "keahlian": ["React", "TypeScript", "System Design"],
+      "sesi": 45,
+      "rating": 4.9,
+      "tentang": "Saya adalah seorang Software Engineer dengan pengalaman lebih dari 5 tahun di industri teknologi.\nSaat ini bekerja di Tokopedia sebagai Senior Frontend Engineer, fokus pada pengembangan web performance dan design system.\n\nSaya senang berbagi ilmu dan membantu teman-teman yang ingin switch career atau mendalami dunia Frontend Development.",
+      "pengalaman": [
+        { "peran": "Senior Frontend Engineer", "perusahaan": "Tokopedia", "periode": "2021 - Present" },
+        { "peran": "Frontend Developer", "perusahaan": "Bukalapak", "periode": "2019 - 2021" },
+        { "peran": "Web Developer", "perusahaan": "Freelance", "periode": "2017 - 2019" }
+      ],
+      "ulasan": 120,
+      "layanan": [
+        { "judul": "1-on-1 Mentoring", "harga": "Rp 150.000", "durasi": "60 Menit", "deskripsi": "Diskusi karir, review CV, atau teknikal." },
+        { "judul": "Mock Interview", "harga": "Rp 200.000", "durasi": "90 Menit", "deskripsi": "Simulasi interview user/teknikal." }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "siti-aminah",
+      "nama": "Siti Aminah",
+      "peran": "Head of Marketing",
+      "perusahaan": "Gojek",
+      "lokasi": "Jakarta, Indonesia",
+      "gambar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "keahlian": ["Digital Marketing", "Growth", "Branding"],
+      "sesi": 32,
+      "rating": 5.0,
+      "tentang": "Marketing enthusiast with passion in growth and branding.",
+      "pengalaman": [],
+      "ulasan": 50,
+      "layanan": []
+    },
+    {
+      "id": 3,
+      "slug": "andi-pratama",
+      "nama": "Andi Pratama",
+      "peran": "Product Designer",
+      "perusahaan": "Traveloka",
+      "lokasi": "Jakarta, Indonesia",
+      "gambar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "keahlian": ["UI/UX", "Figma", "User Research"],
+      "sesi": 28,
+      "rating": 4.8,
+      "tentang": "Designing delightful experiences for users.",
+      "pengalaman": [],
+      "ulasan": 40,
+      "layanan": []
+    },
+    {
+      "id": 4,
+      "slug": "dian-sastro",
+      "nama": "Dian Sastro",
+      "peran": "HR Manager",
+      "perusahaan": "Shopee",
+      "lokasi": "Jakarta, Indonesia",
+      "gambar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "sampul_gambar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=1200&auto=format&fit=crop&q=60",
+      "sampul_video": "",
+      "keahlian": ["Interview", "CV Review", "Career Path"],
+      "sesi": 60,
+      "rating": 4.9,
+      "tentang": "Helping talents find their dream jobs.",
+      "pengalaman": [],
+      "ulasan": 80,
+      "layanan": []
+    }
+  ]
+}

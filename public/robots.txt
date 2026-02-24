@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Sitemap: https://www.lokerku.my.id/sitemap.xml

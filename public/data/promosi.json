@@ -1,0 +1,46 @@
+[
+  {
+    "nama": "Basic",
+    "harga": "Rp 150.000",
+    "durasi": "/ posting",
+    "deskripsi": "Cocok untuk kebutuhan rekrutmen standar.",
+    "fitur": [
+      "Tayang selama 30 hari",
+      "Tampil di hasil pencarian",
+      "Dashboard kelola pelamar",
+      "Support via Email"
+    ],
+    "unggulan": false,
+    "warna": "blue"
+  },
+  {
+    "nama": "Premium",
+    "harga": "Rp 350.000",
+    "durasi": "/ posting",
+    "deskripsi": "Paling populer untuk rekrutmen cepat.",
+    "fitur": [
+      "Semua fitur Basic",
+      "Label 'Urgent' & 'Featured'",
+      "Broadcast ke 5 Group Telegram/WA",
+      "Posisi teratas selama 7 hari",
+      "Support Prioritas"
+    ],
+    "unggulan": true,
+    "warna": "purple"
+  },
+  {
+    "nama": "Enterprise",
+    "harga": "Hubungi Kami",
+    "durasi": "",
+    "deskripsi": "Solusi kustom untuk rekrutmen massal.",
+    "fitur": [
+      "Slot posting unlimited",
+      "Branding halaman khusus",
+      "Akses database talent",
+      "Dedicated Account Manager",
+      "Integrasi API"
+    ],
+    "unggulan": false,
+    "warna": "slate"
+  }
+]

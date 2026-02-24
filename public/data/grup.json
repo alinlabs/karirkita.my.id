@@ -1,0 +1,34 @@
+[
+  {
+    "nama_group": "Loker Purwakarta",
+    "deskripsi": "Group resmi berbagi info lowongan kerja terbaru di Purwakarta dan sekitarnya.",
+    "anggota": 1250,
+    "platform": "WhatsApp",
+    "link": "https://chat.whatsapp.com/examplelink1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png"
+  },
+  {
+    "nama_group": "Loker Karawang",
+    "deskripsi": "Tempat berbagi info lowongan kerja di Karawang untuk semua sektor.",
+    "anggota": 980,
+    "platform": "Telegram",
+    "link": "https://t.me/examplelink2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+  },
+  {
+    "nama_group": "Lowongan Pabrik & Kantor",
+    "deskripsi": "Group khusus untuk info loker pabrik dan perkantoran di wilayah Jawa Barat.",
+    "anggota": 1500,
+    "platform": "WhatsApp",
+    "link": "https://chat.whatsapp.com/examplelink3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png"
+  },
+  {
+    "nama_group": "Freelance & Part-time Jobs",
+    "deskripsi": "Info pekerjaan freelance, paruh waktu, dan proyek singkat untuk berbagai bidang.",
+    "anggota": 670,
+    "platform": "Telegram",
+    "link": "https://t.me/examplelink4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+  }
+]

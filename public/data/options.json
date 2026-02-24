@@ -1,0 +1,263 @@
+[
+{
+  "industri": [
+    {
+      "label": "Industri Manufaktur",
+      "nilai": "Manufaktur",
+      "subkategori": [
+        { "label": "Otomotif (mobil, motor, sparepart)", "nilai": "Otomotif" },
+        { "label": "Makanan & Minuman (pabrik roti, minuman kemasan)", "nilai": "F&B Manufaktur" },
+        { "label": "Tekstil & Garmen (pakaian, sepatu)", "nilai": "Tekstil" },
+        { "label": "Elektronik (TV, kulkas, smartphone)", "nilai": "Elektronik" },
+        { "label": "Farmasi (obat-obatan, suplemen)", "nilai": "Farmasi" },
+        { "label": "Kosmetik & Skincare", "nilai": "Kosmetik" },
+        { "label": "Furniture & Perabotan", "nilai": "Furniture" }
+      ]
+    },
+    {
+      "label": "Industri Jasa",
+      "nilai": "Jasa",
+      "subkategori": [
+        {
+          "label": "Keuangan (Bank, Asuransi, Koperasi)",
+          "nilai": "Keuangan",
+          "detail": [
+            { "label": "Bank", "nilai": "Bank" },
+            { "label": "Asuransi", "nilai": "Asuransi" },
+            { "label": "Koperasi Simpan Pinjam", "nilai": "Koperasi" }
+          ]
+        },
+        {
+          "label": "Kesehatan (RS, Klinik, Lab)",
+          "nilai": "Kesehatan",
+          "detail": [
+            { "label": "Rumah Sakit", "nilai": "Rumah Sakit" },
+            { "label": "Klinik", "nilai": "Klinik" },
+            { "label": "Puskesmas", "nilai": "Puskesmas" },
+            { "label": "Laboratorium", "nilai": "Laboratorium" }
+          ]
+        },
+        {
+          "label": "Pendidikan (Sekolah, Kampus, Kursus)",
+          "nilai": "Pendidikan",
+          "detail": [
+            { "label": "Sekolah", "nilai": "Sekolah" },
+            { "label": "Universitas", "nilai": "Universitas" },
+            { "label": "Lembaga Kursus", "nilai": "Kursus" }
+          ]
+        },
+        {
+          "label": "Transportasi (Ojol, Travel, Logistik)",
+          "nilai": "Transportasi",
+          "detail": [
+            { "label": "Ojek Online", "nilai": "Ojek Online" },
+            { "label": "Travel", "nilai": "Travel" },
+            { "label": "Bus & Taxi", "nilai": "Bus & Taxi" },
+            { "label": "Ekspedisi / Logistik", "nilai": "Logistik" }
+          ]
+        },
+        {
+          "label": "Pariwisata & Hiburan",
+          "nilai": "Pariwisata",
+          "detail": [
+            { "label": "Hotel", "nilai": "Hotel" },
+            { "label": "Travel Agent", "nilai": "Travel Agent" },
+            { "label": "Tempat Wisata", "nilai": "Tempat Wisata" },
+            { "label": "Event Organizer", "nilai": "EO" }
+          ]
+        },
+        {
+          "label": "Jasa Profesional",
+          "nilai": "Profesional",
+          "detail": [
+            { "label": "Konsultan", "nilai": "Konsultan" },
+            { "label": "Notaris", "nilai": "Notaris" },
+            { "label": "Akuntan", "nilai": "Akuntan" },
+            { "label": "Digital Marketing Agency", "nilai": "Digital Agency" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Industri Perdagangan",
+      "nilai": "Perdagangan",
+      "subkategori": [
+        {
+          "label": "Ritel (Toko, Minimarket, Apotek)",
+          "nilai": "Ritel",
+          "detail": [
+            { "label": "Minimarket", "nilai": "Minimarket" },
+            { "label": "Supermarket", "nilai": "Supermarket" },
+            { "label": "Toko Sembako", "nilai": "Toko Sembako" },
+            { "label": "Toko Bangunan", "nilai": "Toko Bangunan" },
+            { "label": "Toko Elektronik", "nilai": "Toko Elektronik" },
+            { "label": "Toko HP / Konter Pulsa", "nilai": "Konter HP" },
+            { "label": "Toko Komputer & Laptop", "nilai": "Toko Komputer" },
+            { "label": "Toko Pakaian / Fashion", "nilai": "Toko Fashion" },
+            { "label": "Apotek (penjualan obat)", "nilai": "Apotek" },
+            { "label": "Toko Alat Kesehatan", "nilai": "Alkes" }
+          ]
+        },
+        {
+          "label": "Grosir (Distributor)",
+          "nilai": "Grosir",
+          "detail": [
+            { "label": "Distributor Makanan", "nilai": "Distributor Makanan" },
+            { "label": "Distributor Minuman", "nilai": "Distributor Minuman" },
+            { "label": "Distributor Barang Elektronik", "nilai": "Distributor Elektronik" }
+          ]
+        },
+        {
+          "label": "E-Commerce",
+          "nilai": "E-Commerce",
+          "detail": [
+            { "label": "Marketplace", "nilai": "Marketplace" },
+            { "label": "Online Shop", "nilai": "Online Shop" },
+            { "label": "Dropshipper", "nilai": "Dropshipper" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Industri Pertanian & Perkebunan",
+      "nilai": "Agrikultur",
+      "subkategori": [
+        { "label": "Perkebunan Sawit", "nilai": "Sawit" },
+        { "label": "Perkebunan Teh & Kopi", "nilai": "Teh & Kopi" },
+        { "label": "Pertanian Padi", "nilai": "Padi" },
+        { "label": "Hortikultura (sayur & buah)", "nilai": "Hortikultura" },
+        { "label": "Peternakan (ayam, sapi, kambing)", "nilai": "Peternakan" },
+        { "label": "Perikanan", "nilai": "Perikanan" }
+      ]
+    },
+    {
+      "label": "Industri Pertambangan & Energi",
+      "nilai": "Pertambangan",
+      "subkategori": [
+        { "label": "Batu Bara", "nilai": "Batu Bara" },
+        { "label": "Emas & Mineral", "nilai": "Mineral" },
+        { "label": "Minyak & Gas", "nilai": "Migas" },
+        { "label": "PLTU / PLTA / PLTS", "nilai": "Pembangkit Listrik" },
+        { "label": "Energi Terbarukan", "nilai": "EBT" }
+      ]
+    },
+    {
+      "label": "Industri Teknologi & Digital",
+      "nilai": "Teknologi",
+      "subkategori": [
+        { "label": "Software House", "nilai": "Software House" },
+        { "label": "Aplikasi Mobile", "nilai": "Mobile Apps" },
+        { "label": "Startup Teknologi", "nilai": "Startup" },
+        { "label": "Fintech", "nilai": "Fintech" },
+        { "label": "Cybersecurity", "nilai": "Cybersecurity" },
+        { "label": "Data Center", "nilai": "Data Center" },
+        { "label": "Penyedia Internet (ISP)", "nilai": "ISP" }
+      ]
+    },
+    {
+      "label": "Industri Konstruksi & Properti",
+      "nilai": "Konstruksi",
+      "subkategori": [
+        { "label": "Kontraktor Bangunan", "nilai": "Kontraktor" },
+        { "label": "Developer Perumahan", "nilai": "Developer" },
+        { "label": "Infrastruktur Jalan & Jembatan", "nilai": "Infrastruktur" },
+        { "label": "Interior Design", "nilai": "Interior" },
+        { "label": "Engineering & EPC", "nilai": "EPC" }
+      ]
+    }
+  ],
+  "ukuranPerusahaan": [
+    { "label": "1 - 10 Karyawan", "nilai": "1-10 Karyawan" },
+    { "label": "11 - 50 Karyawan", "nilai": "10-50 Karyawan" },
+    { "label": "50 - 100 Karyawan", "nilai": "50-100 Karyawan" },
+    { "label": "100 - 500 Karyawan", "nilai": "100-500 Karyawan" },
+    { "label": "500+ Karyawan", "nilai": "500+ Karyawan" }
+  ],
+  "tipePekerjaan": [
+    { "label": "Penuh Waktu (Full Time)", "nilai": "Full Time" },
+    { "label": "Paruh Waktu (Part Time)", "nilai": "Part Time" },
+    { "label": "Kontrak", "nilai": "Contract" },
+    { "label": "Pekerja Lepas (Freelance)", "nilai": "Freelance" },
+    { "label": "Magang (Internship)", "nilai": "Internship" }
+  ],
+  "levelPekerjaan": [
+    { "label": "Magang / Mahasiswa", "nilai": "Intern / Student" },
+    { "label": "Pemula / Junior", "nilai": "Junior" },
+    { "label": "Menengah", "nilai": "Middle" },
+    { "label": "Senior", "nilai": "Senior" },
+    { "label": "Manajer / Lead", "nilai": "Lead" },
+    { "label": "Eksekutif / C-Level", "nilai": "Executive" }
+  ],
+  "modeKerja": [
+    { "label": "Di Kantor (WFO)", "nilai": "On-Site (WFO)" },
+    { "label": "Jarak Jauh (WFH)", "nilai": "Remote (WFH)" },
+    { "label": "Hibrida (Hybrid)", "nilai": "Hybrid" }
+  ],
+  "bahasa": [
+    { "label": "Bahasa Indonesia", "nilai": "Bahasa Indonesia", "kode": "id" },
+    { "label": "Bahasa Inggris", "nilai": "English", "kode": "gb" },
+    { "label": "Bahasa Mandarin", "nilai": "Mandarin", "kode": "cn" },
+    { "label": "Bahasa Jepang", "nilai": "Japanese", "kode": "jp" },
+    { "label": "Bahasa Korea", "nilai": "Korean", "kode": "kr" },
+    { "label": "Bahasa Jerman", "nilai": "German", "kode": "de" },
+    { "label": "Bahasa Perancis", "nilai": "French", "kode": "fr" },
+    { "label": "Bahasa Arab", "nilai": "Arabic", "kode": "sa" },
+    { "label": "Bahasa Spanyol", "nilai": "Spanish", "kode": "es" },
+    { "label": "Bahasa Rusia", "nilai": "Russian", "kode": "ru" }
+  ],
+  "templateSurat": {
+    "pelamar": [
+        { "label": "Surat Lamaran Kerja", "nilai": "lamaran" },
+        { "label": "Permohonan Magang", "nilai": "magang" },
+        { "label": "Surat Pengunduran Diri (Resign)", "nilai": "resign" },
+        { "label": "Penolakan Tawaran Kerja", "nilai": "penolakan" }
+    ],
+    "perusahaan": [
+        { "label": "Surat Panggilan Interview", "nilai": "panggilan" },
+        { "label": "Surat Penawaran Kerja (Offering)", "nilai": "penawaran" },
+        { "label": "Surat Penerimaan (Acceptance)", "nilai": "penerimaan" }
+    ]
+  },
+  "fontSurat": [
+    { "label": "Times New Roman (Serif)", "nilai": "Times New Roman" },
+    { "label": "Arial (Sans-Serif)", "nilai": "Arial" },
+    { "label": "Calibri (Modern)", "nilai": "Calibri" },
+    { "label": "Roboto (Bersih)", "nilai": "Roboto" }
+  ],
+  "gayaSurat": [
+    { "label": "Formal (Rata Kiri-Kanan)", "nilai": "formal" },
+    { "label": "Modern (Rata Kiri + Spasi)", "nilai": "modern" }
+  ],
+  "sistem_kerja": [
+    { "label": "WFH (Work From Home)", "nilai": "WFH" },
+    { "label": "WFO (Work From Office)", "nilai": "WFO" },
+    { "label": "Hybrid", "nilai": "Hybrid" },
+    { "label": "Shift", "nilai": "Shift" },
+    { "label": "Part-time", "nilai": "Part-time" },
+    { "label": "Full-time", "nilai": "Full-time" },
+    { "label": "Freelance", "nilai": "Freelance" },
+    { "label": "Remote", "nilai": "Remote" },
+    { "label": "Intern", "nilai": "Intern" },
+    { "label": "On-site", "nilai": "On-site" }
+  ],
+  "sistem_gaji": [
+    { "label": "Bulanan", "nilai": "Bulanan" },
+    { "label": "Harian", "nilai": "Harian" },
+    { "label": "Mingguan", "nilai": "Mingguan" },
+    { "label": "Proyek", "nilai": "Proyek" },
+    { "label": "Komisi", "nilai": "Komisi" },
+    { "label": "Insentif", "nilai": "Insentif" },
+    { "label": "Freelance", "nilai": "Freelance" },
+    { "label": "Per Jam", "nilai": "Per Jam" },
+    { "label": "Tahunan", "nilai": "Tahunan" }
+  ],
+  "jenis_kontrak": [
+    { "label": "Karyawan Tetap", "nilai": "Karyawan Tetap" },
+    { "label": "Kontrak", "nilai": "Kontrak" },
+    { "label": "Magang", "nilai": "Magang" },
+    { "label": "Probation", "nilai": "Probation" },
+    { "label": "Freelance", "nilai": "Freelance" },
+    { "label": "Outsourcing", "nilai": "Outsourcing" }
+  ]
+}
+]

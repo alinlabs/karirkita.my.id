@@ -1,0 +1,306 @@
+[
+{
+  "hard_skills": {
+    "administration": {
+      "office_tools": {
+        "deskripsi": "Perangkat Lunak Perkantoran",
+        "daftar": [
+          {
+            "keahlian": "Microsoft Word",
+            "gambar": "https://placehold.co/100x100/2563eb/ffffff?text=Word"
+          },
+          {
+            "keahlian": "Microsoft Excel",
+            "gambar": "https://placehold.co/100x100/10b981/ffffff?text=Excel"
+          },
+          {
+            "keahlian": "Microsoft PowerPoint",
+            "gambar": "https://placehold.co/100x100/f97316/ffffff?text=PPT"
+          },
+          {
+            "keahlian": "Google Docs",
+            "gambar": "https://placehold.co/100x100/3b82f6/ffffff?text=Docs"
+          },
+          {
+            "keahlian": "Google Sheets",
+            "gambar": "https://placehold.co/100x100/10b981/ffffff?text=Sheets"
+          },
+          {
+            "keahlian": "Google Slides",
+            "gambar": "https://placehold.co/100x100/f59e0b/ffffff?text=Slides"
+          }
+        ]
+      },
+      "office_operations": {
+        "deskripsi": "Operasional Administrasi",
+        "daftar": [
+          {
+            "keahlian": "Manajemen Dokumen",
+            "gambar": "https://placehold.co/100x100/e2e8f0/64748b?text=Doc+Mgmt"
+          },
+          {
+            "keahlian": "Sistem Pengarsipan",
+            "gambar": "https://placehold.co/100x100/e2e8f0/64748b?text=Filing"
+          },
+          {
+            "keahlian": "Entri Data",
+            "gambar": "https://placehold.co/100x100/e2e8f0/64748b?text=Data+Entry"
+          },
+          {
+            "keahlian": "Penjadwalan",
+            "gambar": "https://placehold.co/100x100/e2e8f0/64748b?text=Schedule"
+          },
+          {
+            "keahlian": "Korespondensi",
+            "gambar": "https://placehold.co/100x100/e2e8f0/64748b?text=Mail"
+          }
+        ]
+      },
+      "administrative_support": {
+        "deskripsi": "Dukungan Administratif",
+        "daftar": [
+          {
+            "keahlian": "Kesekretariatan",
+            "gambar": "https://placehold.co/100x100/f1f5f9/475569?text=Secretary"
+          },
+          {
+            "keahlian": "Asisten Eksekutif",
+            "gambar": "https://placehold.co/100x100/f1f5f9/475569?text=EA"
+          }
+        ]
+      }
+    },
+    "technology_stack": {
+      "frontend_and_mobile": {
+        "deskripsi": "Pengembangan Frontend & Mobile",
+        "daftar": [
+          {
+            "keahlian": "React",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png"
+          },
+          {
+            "keahlian": "TypeScript",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png"
+          },
+          {
+            "keahlian": "Tailwind CSS",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+          },
+          {
+            "keahlian": "Next.js",
+            "gambar": "https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"
+          },
+          {
+            "keahlian": "Jest",
+            "gambar": "https://placehold.co/100x100/99424f/ffffff?text=Jest"
+          },
+          {
+            "keahlian": "GraphQL",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/100px-GraphQL_Logo.svg.png"
+          }
+        ]
+      },
+      "design_tools": {
+        "deskripsi": "Alat Desain",
+        "daftar": [
+          {
+            "keahlian": "Figma",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+          },
+          {
+            "keahlian": "Adobe XD",
+            "gambar": "https://placehold.co/100x100/ff61f6/ffffff?text=XD"
+          },
+          {
+            "keahlian": "Sketch",
+            "gambar": "https://placehold.co/100x100/fdb300/ffffff?text=Sketch"
+          }
+        ]
+      }
+    },
+    "finance_and_accounting": {
+      "accounting": {
+        "deskripsi": "Akuntansi",
+        "daftar": [
+          {
+            "keahlian": "Akuntansi Keuangan",
+            "gambar": "https://placehold.co/100x100/ecfccb/65a30d?text=Fin+Acc"
+          },
+          {
+            "keahlian": "Pembukuan",
+            "gambar": "https://placehold.co/100x100/ecfccb/65a30d?text=Books"
+          }
+        ]
+      },
+      "finance": {
+        "deskripsi": "Keuangan",
+        "daftar": [
+          {
+            "keahlian": "Analisis Keuangan",
+            "gambar": "https://placehold.co/100x100/dbeafe/1e40af?text=Analysis"
+          },
+          {
+            "keahlian": "Penganggaran (Budgeting)",
+            "gambar": "https://placehold.co/100x100/dbeafe/1e40af?text=Budget"
+          }
+        ]
+      }
+    },
+    "information_technology": {
+      "software_development": {
+        "deskripsi": "Pengembangan Perangkat Lunak",
+        "daftar": [
+          {
+            "keahlian": "Pemrograman",
+            "gambar": "https://placehold.co/100x100/3b82f6/ffffff?text=Code"
+          },
+          {
+            "keahlian": "Pengembangan Web",
+            "gambar": "https://placehold.co/100x100/3b82f6/ffffff?text=Web"
+          },
+          {
+            "keahlian": "Pengembangan Backend",
+            "gambar": "https://placehold.co/100x100/3b82f6/ffffff?text=Backend"
+          }
+        ]
+      },
+      "data_and_ai": {
+        "deskripsi": "Data & AI",
+        "daftar": [
+          {
+            "keahlian": "Analisis Data",
+            "gambar": "https://placehold.co/100x100/8b5cf6/ffffff?text=Data"
+          },
+          {
+            "keahlian": "Machine Learning",
+            "gambar": "https://placehold.co/100x100/8b5cf6/ffffff?text=ML"
+          }
+        ]
+      }
+    },
+    "marketing_and_communication": {
+      "digital_marketing": {
+        "deskripsi": "Pemasaran Digital",
+        "daftar": [
+          {
+            "keahlian": "SEO",
+            "gambar": "https://placehold.co/100x100/f472b6/ffffff?text=SEO"
+          },
+          {
+            "keahlian": "Manajemen Media Sosial",
+            "gambar": "https://placehold.co/100x100/f472b6/ffffff?text=Social"
+          },
+          {
+            "keahlian": "Iklan Digital",
+            "gambar": "https://placehold.co/100x100/f472b6/ffffff?text=Ads"
+          }
+        ]
+      },
+      "content_and_media": {
+        "deskripsi": "Konten & Media",
+        "daftar": [
+          {
+            "keahlian": "Copywriting",
+            "gambar": "https://placehold.co/100x100/fbbf24/ffffff?text=Copy"
+          },
+          {
+            "keahlian": "Penulisan Konten",
+            "gambar": "https://placehold.co/100x100/fbbf24/ffffff?text=Writing"
+          }
+        ]
+      }
+    },
+    "design_and_creative": {
+      "visual_design": {
+        "deskripsi": "Desain Visual",
+        "daftar": [
+          {
+            "keahlian": "Desain Grafis",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=Graphic"
+          },
+          {
+            "keahlian": "Desain UI",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=UI"
+          },
+          {
+            "keahlian": "Desain UX",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=UX"
+          },
+          {
+            "keahlian": "Riset UX",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=Research"
+          },
+          {
+            "keahlian": "Prototyping",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=Proto"
+          },
+          {
+            "keahlian": "Design System",
+            "gambar": "https://placehold.co/100x100/f0abfc/ffffff?text=Sys"
+          }
+        ]
+      },
+      "multimedia": {
+        "deskripsi": "Multimedia",
+        "daftar": [
+          {
+            "keahlian": "Video Editing",
+            "gambar": "https://placehold.co/100x100/22d3ee/ffffff?text=Video"
+          },
+          {
+            "keahlian": "Motion Graphics",
+            "gambar": "https://placehold.co/100x100/22d3ee/ffffff?text=Motion"
+          }
+        ]
+      }
+    },
+    "operations_and_industry": {
+      "operations_management": {
+        "deskripsi": "Manajemen Operasional",
+        "daftar": [
+          {
+            "keahlian": "Manajemen Proyek",
+            "gambar": "https://placehold.co/100x100/94a3b8/ffffff?text=PM"
+          },
+          {
+            "keahlian": "Manajemen Operasional",
+            "gambar": "https://placehold.co/100x100/94a3b8/ffffff?text=Ops"
+          }
+        ]
+      }
+    }
+  },
+  "soft_skills": {
+    "communication": [
+      {
+        "keahlian": "Komunikasi",
+        "gambar": "https://placehold.co/100x100/fcd34d/ffffff?text=Comm"
+      },
+      {
+        "keahlian": "Public Speaking",
+        "gambar": "https://placehold.co/100x100/fcd34d/ffffff?text=Speaking"
+      }
+    ],
+    "personal_effectiveness": [
+      {
+        "keahlian": "Manajemen Waktu",
+        "gambar": "https://placehold.co/100x100/86efac/ffffff?text=Time"
+      },
+      {
+        "keahlian": "Adaptabilitas",
+        "gambar": "https://placehold.co/100x100/86efac/ffffff?text=Adapt"
+      }
+    ],
+    "social_and_leadership": [
+      {
+        "keahlian": "Kerjasama Tim",
+        "gambar": "https://placehold.co/100x100/fca5a5/ffffff?text=Team"
+      },
+      {
+        "keahlian": "Kepemimpinan",
+        "gambar": "https://placehold.co/100x100/fca5a5/ffffff?text=Leader"
+      }
+    ]
+  }
+}
+]
