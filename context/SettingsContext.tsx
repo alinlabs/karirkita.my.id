@@ -1,6 +1,6 @@
 
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { LanguageCode, CurrencyCode } from '../types/settings';
+import { LanguageCode, CurrencyCode, SUPPORTED_LANGUAGES } from '../types/settings';
 import { routingData } from '../services/routingData';
 
 interface SettingsContextType {
@@ -22,6 +22,15 @@ export const SettingsProvider: React.FC<{ children: React.ReactNode }> = ({ chil
   const [exchangeRates, setExchangeRates] = useState<Record<string, number>>({});
 
   useEffect(() => {
+    // Subdomain Language Detection
+    const hostname = window.location.hostname;
+    const subdomain = hostname.split('.')[0];
+    const supportedLang = SUPPORTED_LANGUAGES.find(lang => lang.code === subdomain);
+
+    if (supportedLang) {
+      setLanguage(supportedLang.code as LanguageCode);
+    }
+
     // Fetch rates via routingData
     routingData.getExchangeRates().then(rates => {
       setExchangeRates(rates);
